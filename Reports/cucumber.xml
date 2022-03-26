@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="33.007">
+    <testcase classname="yahoo login and send email" name="login" time="32.551">
+        <system-out><![CDATA[Given launch the application................................................passed
+When Enter the username and Click...........................................passed
+When Enter the passeord and Click...........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
